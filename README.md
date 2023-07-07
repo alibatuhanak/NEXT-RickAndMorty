@@ -14,6 +14,7 @@
     <li><a href="https://nextjs.org/">Next.js</a></li>
     <li><a href="https://reactjs.org/">React.js</a></li>
     <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+    <li><a href="https://typescriptlang.org/">TypeScript</a></li>
 
   </ul>
 </details>
